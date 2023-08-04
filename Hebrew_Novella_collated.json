@@ -1,1 +1,35 @@
-ew0KICAgICJjb3VudCI6IDQsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJmZGE1MGMwMy1mNWZkLTRmYjAtODdkMi00ZmNjM2U3MGE0NTgiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJIZWJyZXciLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0hlYnJldy9mZGE1MGMwMy1mNWZkLTRmYjAtODdkMi00ZmNjM2U3MGE0NTgvZmRhNTBjMDMtZjVmZC00ZmIwLTg3ZDItNGZjYzNlNzBhNDU4Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImNkMTE3ZDlkLWE4ODItNGUzOC05NzNhLTdiNjUwODk1YzdkYSIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkhlYnJldyIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvSGVicmV3L2NkMTE3ZDlkLWE4ODItNGUzOC05NzNhLTdiNjUwODk1YzdkYS9jZDExN2Q5ZC1hODgyLTRlMzgtOTczYS03YjY1MDg5NWM3ZGEubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiZjk2ZjI5ODUtZTM5OC00NWRlLTg4YzItZGRiOGQyNTgxMmI4IiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiSGVicmV3IiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9IZWJyZXcvZjk2ZjI5ODUtZTM5OC00NWRlLTg4YzItZGRiOGQyNTgxMmI4L2Y5NmYyOTg1LWUzOTgtNDVkZS04OGMyLWRkYjhkMjU4MTJiOC5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI1NGJhOTQ4MC0zNjE3LTQwNTgtOGIzYi1iNWZhNTZiNmMzNjEiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJIZWJyZXciLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0hlYnJldy81NGJhOTQ4MC0zNjE3LTQwNTgtOGIzYi1iNWZhNTZiNmMzNjEvNTRiYTk0ODAtMzYxNy00MDU4LThiM2ItYjVmYTU2YjZjMzYxLm1wNCINCiAgICAgICAgfQ0KICAgIF0NCn0=
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "fda50c03-f5fd-4fb0-87d2-4fcc3e70a458",
+            "collectionId": "Hebrew",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hebrew/Hebrew_Novella/fda50c03-f5fd-4fb0-87d2-4fcc3e70a458/fda50c03-f5fd-4fb0-87d2-4fcc3e70a458_iw_Male.mp4"
+        },
+        {
+            "id": "cd117d9d-a882-4e38-973a-7b650895c7da",
+            "collectionId": "Hebrew",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hebrew/Hebrew_Novella/cd117d9d-a882-4e38-973a-7b650895c7da/cd117d9d-a882-4e38-973a-7b650895c7da_iw_Male.mp4"
+        },
+        {
+            "id": "f96f2985-e398-45de-88c2-ddb8d25812b8",
+            "collectionId": "Hebrew",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hebrew/Hebrew_Novella/f96f2985-e398-45de-88c2-ddb8d25812b8/f96f2985-e398-45de-88c2-ddb8d25812b8_iw_Male.mp4"
+        },
+        {
+            "id": "54ba9480-3617-4058-8b3b-b5fa56b6c361",
+            "collectionId": "Hebrew",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Hebrew/Hebrew_Novella/54ba9480-3617-4058-8b3b-b5fa56b6c361/54ba9480-3617-4058-8b3b-b5fa56b6c361_iw_Female.mp4"
+        }
+    ]
+}
